@@ -124,10 +124,8 @@ jobs:
           # CONFIG_PACKAGE_libudns is not set
           # CONFIG_PACKAGE_lua-neturl is not set
           # CONFIG_PACKAGE_luci-app-arpbind is not set
-          # CONFIG_PACKAGE_luci-app-autoreboot is not set
           # CONFIG_PACKAGE_luci-app-ddns is not set
           # CONFIG_PACKAGE_luci-app-ksmbd is not set
-          CONFIG_PACKAGE_luci-app-msd_lite=y
           # CONFIG_PACKAGE_luci-app-nlbwmon is not set
           CONFIG_PACKAGE_luci-app-openclash=y
           # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-ng is not set
@@ -142,14 +140,12 @@ jobs:
           # CONFIG_PACKAGE_luci-app-upnp is not set
           # CONFIG_PACKAGE_luci-app-vsftpd is not set
           # CONFIG_PACKAGE_luci-app-wol is not set
-          CONFIG_PACKAGE_luci-i18n-msd_lite-zh-cn=y
           CONFIG_PACKAGE_luci-i18n-udpxy-zh-cn=y
           # CONFIG_PACKAGE_luci-lib-chartjs is not set
           # CONFIG_PACKAGE_lyaml is not set
           # CONFIG_PACKAGE_microsocks is not set
           # CONFIG_PACKAGE_mihomo is not set
           # CONFIG_PACKAGE_miniupnpd-iptables is not set
-          CONFIG_PACKAGE_msd_lite=y
           CONFIG_PACKAGE_nano=y
           # CONFIG_PACKAGE_nlbwmon is not set
           # CONFIG_PACKAGE_nping is not set
